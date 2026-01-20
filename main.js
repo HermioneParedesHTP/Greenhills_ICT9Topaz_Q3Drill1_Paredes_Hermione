@@ -12,3 +12,4 @@ body {
   height: 50vh;           
   margin: 0;              
   text-align: center;
+}
