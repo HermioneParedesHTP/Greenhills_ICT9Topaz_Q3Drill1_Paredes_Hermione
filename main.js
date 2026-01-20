@@ -4,3 +4,11 @@ function subtract() {
     var diff = Number(num1) - Number (num2);
     window.alert(diff);
 }
+
+body {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  height: 50vh;           
+  margin: 0;              
+  text-align: center;
